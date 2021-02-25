@@ -5,6 +5,8 @@
 ## Description
 This is a Content Management System designed to manage and track a companies employee database.
 
+![Link To Employee Tracker Demo](https://drive.google.com/file/d/1qrIQg4TbKB7YwMTtgUyfZqzoATSijABf/view?usp=sharing)
+
 ## Table of Contents 
 * [Installation](#installation)
 * [Usage](#usage)
